@@ -23,20 +23,21 @@
 }
 
 .form{
-    width: 30%;
+    width: 26%;
     background-color: #fff;
     position: absolute;
-    height: 300px;
+    height: 330px;
     margin-top: 30px;
     left: 600px;
-    border-radius: 15px;
-    padding: 15px;
-    bottom: 350px;
+    border-radius: 30px;
+    padding: 1px;
+    bottom: 400px;
+    top: 130px;
 }
 
 .form input{
-    width: 400px;
-    height: 45px;
+    width: 310px;
+    height: 50px;
     padding-left: 15px;
     background: transparent;
     border-bottom: 1px solid gray;
@@ -44,29 +45,32 @@
     border-left: none;
     border-right: none;
     color: black;
-    font-size: 15px;
+    font-size: 30px;
     letter-spacing: 1px;
     margin-top: 40px;
     font-family: 'Times New Roman';
-    margin-left: 50px;
+    margin-left: 60px;
+    padding-bottom: 5px;
 
-}
-.form img{
-    width: 21px;
-    height: 21px;
-    
 }
 
 .btn{
     background-color: blue;
-    margin-left: 150px;
-    width: 150px;
-    height: 30px;
+    margin-left: 130px;
+    width: 160px;
+    height: 60px;
+   margin-bottom: 10px;
+   font-size: 20px;
 }
 .btn a{
     color: #fff;
 }
 
 .form h3{
-    margin-left: 300px
+    margin-left: 250px;
+}
+.form img{
+    height:40px;
+    width: 33px; 
+   
 }
